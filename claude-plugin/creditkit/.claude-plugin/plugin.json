@@ -1,0 +1,21 @@
+{
+  "name": "creditkit",
+  "version": "1.0.0",
+  "description": "Add credits, a paywall and Stripe checkout to your AI app. Claude sets up CreditKit in your codebase: actions and their credit costs, free credits, packs, the code, and a setup check. Test Mode only; live keys stay in the CreditKit console.",
+  "author": {
+    "name": "CreditKit",
+    "url": "https://creditkit.dev"
+  },
+  "homepage": "https://creditkit.dev/docs/mcp",
+  "privacyPolicyUrl": "https://creditkit.dev/privacy",
+  "license": "MIT",
+  "keywords": [
+    "billing",
+    "credits",
+    "paywall",
+    "stripe",
+    "monetization",
+    "ai-apps"
+  ],
+  "icon": ".claude-plugin/icon.png"
+}

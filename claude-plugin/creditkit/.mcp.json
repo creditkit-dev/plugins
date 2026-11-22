@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "creditkit": { "type": "http", "url": "https://mcp.creditkit.dev" }
+  }
+}

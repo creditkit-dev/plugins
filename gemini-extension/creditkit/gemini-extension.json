@@ -1,0 +1,9 @@
+{
+  "name": "creditkit",
+  "version": "1.0.0",
+  "description": "Add credits, a paywall and Stripe checkout to your AI app with CreditKit (Test Mode setup from the terminal).",
+  "mcpServers": {
+    "creditkit": { "httpUrl": "https://mcp.creditkit.dev" }
+  },
+  "contextFileName": "GEMINI.md"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "creditkit",
+  "displayName": "CreditKit",
+  "version": "1.0.0",
+  "description": "Add prepaid credits, a paywall, and Stripe checkout to your AI app from Antigravity. Configures actions, credit costs, free credits, packs, SDK code, and verifies your setup in Test Mode.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Add CreditKit to this app and charge 5 credits per generated image",
+    "Set up 25 free starter credits and a $10 pack for 500 credits, then verify the setup",
+    "Check my CreditKit setup status and fix any remaining integration steps"
+  ],
+  "author": {
+    "name": "CreditKit",
+    "url": "https://creditkit.dev"
+  },
+  "homepage": "https://creditkit.dev/docs/mcp"
+}
