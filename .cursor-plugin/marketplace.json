@@ -1,0 +1,14 @@
+{
+  "name": "creditkit-plugins",
+  "owner": {
+    "name": "CreditKit",
+    "email": "support@creditkit.dev"
+  },
+  "plugins": [
+    {
+      "name": "creditkit",
+      "source": "cursor-plugin/creditkit",
+      "description": "Add prepaid usage credits, crash-proof holds, a branded paywall, and Stripe Checkout to any AI app (Test Mode setup via OAuth MCP)."
+    }
+  ]
+}
