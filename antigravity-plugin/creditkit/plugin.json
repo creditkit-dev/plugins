@@ -1,8 +1,9 @@
 {
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
   "name": "creditkit",
   "displayName": "CreditKit",
   "version": "1.0.0",
-  "description": "Add prepaid credits, a paywall, and Stripe checkout to your AI app from Antigravity. Configures actions, credit costs, free credits, packs, SDK code, and verifies your setup in Test Mode.",
+  "description": "Add prepaid usage credits, crash-proof holds, a branded paywall, and Stripe checkout to any AI app with Test Mode setup and verification.",
   "logo": "assets/logo.svg",
   "suggestedPrompts": [
     "Add CreditKit to this app and charge 5 credits per generated image",
@@ -13,5 +14,15 @@
     "name": "CreditKit",
     "url": "https://creditkit.dev"
   },
-  "homepage": "https://creditkit.dev/docs/mcp"
+  "homepage": "https://creditkit.dev/docs/mcp",
+  "repository": "https://github.com/creditkit-dev/plugins",
+  "license": "MIT",
+  "keywords": [
+    "billing",
+    "credits",
+    "paywall",
+    "stripe",
+    "monetization",
+    "ai-apps"
+  ]
 }
